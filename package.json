@@ -10,6 +10,6 @@
     "request-in-session": "elysion/request-in-session#v1.2.1"
   },
   "devDependencies": {
-    "eslint": "^4.12.1"
+    "eslint": "^4.18.2"
   }
 }
